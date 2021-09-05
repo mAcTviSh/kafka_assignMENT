@@ -1,0 +1,7 @@
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
+{"id":1,"name":"Rohit Kumar Verma","course":"BTech."}
